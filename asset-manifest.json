@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/ecoharvest/static/css/main.d599fcd1.css",
+    "main.js": "/ecoharvest/static/js/main.1fe50587.js",
+    "static/js/787.bc83a140.chunk.js": "/ecoharvest/static/js/787.bc83a140.chunk.js",
+    "static/media/herb.svg": "/ecoharvest/static/media/herb.d4a1061b23c584e61669e09c055f21ff.svg",
+    "static/media/wwd7 Medium.jpeg": "/ecoharvest/static/media/wwd7 Medium.d06c955dd1810039efe2.jpeg",
+    "static/media/garden2 Medium.jpeg": "/ecoharvest/static/media/garden2 Medium.f5c6774d3be01e4e9116.jpeg",
+    "static/media/garden1 Medium.jpeg": "/ecoharvest/static/media/garden1 Medium.77a27b411643cd4637fa.jpeg",
+    "static/media/garden3 Medium.jpeg": "/ecoharvest/static/media/garden3 Medium.9b0bf73602989d028085.jpeg",
+    "static/media/garden6 Medium.jpeg": "/ecoharvest/static/media/garden6 Medium.194bd6b3f8c919bfbb88.jpeg",
+    "static/media/garden7 Medium.jpeg": "/ecoharvest/static/media/garden7 Medium.567b3c09afbce4e6ca0c.jpeg",
+    "static/media/wwd6 Medium.jpeg": "/ecoharvest/static/media/wwd6 Medium.4de278e4fdf96e40992f.jpeg",
+    "static/media/garden9 Medium.jpeg": "/ecoharvest/static/media/garden9 Medium.645cdaccb48f1b78d9d7.jpeg",
+    "static/media/wwd8 Medium.jpeg": "/ecoharvest/static/media/wwd8 Medium.f58172fe4e7978fc3168.jpeg",
+    "static/media/wwd5 Medium.jpeg": "/ecoharvest/static/media/wwd5 Medium.9824b5a29be2edebc60e.jpeg",
+    "static/media/garden4 Medium.jpeg": "/ecoharvest/static/media/garden4 Medium.7f62f1e5f81a1400bec4.jpeg",
+    "static/media/garden10 Medium.jpeg": "/ecoharvest/static/media/garden10 Medium.bfa7b6c706f305dcea0e.jpeg",
+    "static/media/wwd14 Medium.jpeg": "/ecoharvest/static/media/wwd14 Medium.94bcd54a452741559000.jpeg",
+    "static/media/wwd4 Medium.jpeg": "/ecoharvest/static/media/wwd4 Medium.bb19645f2f467e48cfc2.jpeg",
+    "static/media/wwd1 Medium.jpeg": "/ecoharvest/static/media/wwd1 Medium.3b82d3466d5f9fd58ad5.jpeg",
+    "static/media/garden8 Medium.jpeg": "/ecoharvest/static/media/garden8 Medium.a9a3d1f787bdb3f551b1.jpeg",
+    "static/media/wwd9 Medium.jpeg": "/ecoharvest/static/media/wwd9 Medium.55dcf9c19a398051cdcb.jpeg",
+    "static/media/wwd10 Medium.jpeg": "/ecoharvest/static/media/wwd10 Medium.e2adaa3848ff52c9d2f5.jpeg",
+    "static/media/wwd13 Medium.jpeg": "/ecoharvest/static/media/wwd13 Medium.5959a11d89ef28b6bb9a.jpeg",
+    "static/media/garden11 Medium.jpeg": "/ecoharvest/static/media/garden11 Medium.abcec97e5bab2423d65e.jpeg",
+    "static/media/wwd3 Medium.jpeg": "/ecoharvest/static/media/wwd3 Medium.8421760ea889c992e0fe.jpeg",
+    "static/media/wwd11 Medium.jpeg": "/ecoharvest/static/media/wwd11 Medium.4dd474a3ab03546d36e2.jpeg",
+    "static/media/wwd12 Medium.jpeg": "/ecoharvest/static/media/wwd12 Medium.0886b245ed93cdd709a2.jpeg",
+    "static/media/wwd2 Medium.jpeg": "/ecoharvest/static/media/wwd2 Medium.c63b7929dd9250e6c831.jpeg",
+    "index.html": "/ecoharvest/index.html",
+    "main.d599fcd1.css.map": "/ecoharvest/static/css/main.d599fcd1.css.map",
+    "main.1fe50587.js.map": "/ecoharvest/static/js/main.1fe50587.js.map",
+    "787.bc83a140.chunk.js.map": "/ecoharvest/static/js/787.bc83a140.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d599fcd1.css",
+    "static/js/main.1fe50587.js"
+  ]
+}
