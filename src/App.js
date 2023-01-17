@@ -36,7 +36,7 @@ import wwd17 from './wwd17 Medium.jpeg'
 
 import ImageGrid from './ImageGrid'
 
-const wwd = [wwd14, wwd1, wwd2, wwd15, wwd13, wwd16, wwd10, wwd8, wwd9, wwd7, wwd11, wwd12, wwd4, wwd6, wwd17]
+const wwd = [wwd17, wwd1, wwd2, wwd15, wwd13, wwd16, wwd10, wwd8, wwd9, wwd7, wwd11, wwd12, wwd4, wwd6, wwd14]
 const garden = [garden13, garden8, garden3, garden4, garden6, garden7, garden12, garden9, garden10, garden11]
 
 function App() {
