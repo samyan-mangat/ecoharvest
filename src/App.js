@@ -68,7 +68,7 @@ function App() {
 
         <div className="section-box shadow rounded">
           <h2 className="modern-font">Get In Touch!</h2>
-          <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSe0ChLe_I1zqVLokSSX25hKV5ELwiYtG7UxT5oKecnIdE86jQ/viewform?embedded=true" width="550vw" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+          <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSe0ChLe_I1zqVLokSSX25hKV5ELwiYtG7UxT5oKecnIdE86jQ/viewform?embedded=true" width="500vw" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
         </div>
 
       </div>
