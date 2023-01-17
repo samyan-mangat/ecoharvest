@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/ecoharvest/static/css/main.4ca32ee1.css",
-    "main.js": "/ecoharvest/static/js/main.bb31f7de.js",
+    "main.js": "/ecoharvest/static/js/main.15d37d05.js",
     "static/js/787.bc83a140.chunk.js": "/ecoharvest/static/js/787.bc83a140.chunk.js",
     "static/media/herb.svg": "/ecoharvest/static/media/herb.d4a1061b23c584e61669e09c055f21ff.svg",
     "static/media/wwd7 Medium.jpeg": "/ecoharvest/static/media/wwd7 Medium.d06c955dd1810039efe2.jpeg",
@@ -35,11 +35,11 @@
     "static/media/wwd2 Medium.jpeg": "/ecoharvest/static/media/wwd2 Medium.c63b7929dd9250e6c831.jpeg",
     "index.html": "/ecoharvest/index.html",
     "main.4ca32ee1.css.map": "/ecoharvest/static/css/main.4ca32ee1.css.map",
-    "main.bb31f7de.js.map": "/ecoharvest/static/js/main.bb31f7de.js.map",
+    "main.15d37d05.js.map": "/ecoharvest/static/js/main.15d37d05.js.map",
     "787.bc83a140.chunk.js.map": "/ecoharvest/static/js/787.bc83a140.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4ca32ee1.css",
-    "static/js/main.bb31f7de.js"
+    "static/js/main.15d37d05.js"
   ]
 }
